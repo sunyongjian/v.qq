@@ -271,4 +271,4 @@ var utils = (function () {
         getElementsByClass:getElementsByClass,
         css:css
     }
-})()
+})();
